@@ -1,0 +1,8 @@
+Target-Centered Drug Repurposing Predictions of Human Angiotensin-Converting Enzyme 2 (ACE2) and Transmembrane Protease Serine Subtype 2 (TMPRSS2) Interacting Approved Drugs for Coronavirus Disease 2019 (COVID-19) Treatment through a Drug-Target Interaction Deep Learning Model
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7698791/
+
+columns
+
+SMILES used in the DTI prediction
+DTI Kd (nM)
